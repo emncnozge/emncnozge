@@ -62,7 +62,7 @@
   </a>
   &emsp;
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.php.net/" target="_blank"> 
