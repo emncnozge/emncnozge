@@ -29,9 +29,9 @@
 
 <p align="center">
 	<a href="mailto:emincanozge@outlook.com"><img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
-	<a href="https://www.linkedin.com/in/emincanozge/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  	<a href="https://github.com/emncnozge" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/emncnozge/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/emincanozge/" target="_blank" rel=”noopener noreferrer”><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  	<a href="https://github.com/emncnozge" target="_blank" rel=”noopener noreferrer”><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.instagram.com/emncnozge/" target="_blank" rel=”noopener noreferrer”><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 
 </p>
 
@@ -41,43 +41,43 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.cplusplus.com/" target="_blank"> 
+  <a href="https://www.cplusplus.com/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+   <a href="https://www.python.org" target="_blank" rel=”noopener noreferrer”>
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com" target="_blank" rel=”noopener noreferrer”> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.mysql.com/" target="_blank"> 
+  <a href="https://www.mysql.com/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.postgresql.org/" target="_blank"> 
+  <a href="https://www.postgresql.org/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.php.net/" target="_blank"> 
+  <a href="https://www.php.net/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </a>
   &emsp;
-  <a href="https://laravel.com/" target="_blank"> 
+  <a href="https://laravel.com/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener noreferrer”> 
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
   &emsp;
-  <a href="https://jquery.com/" target="_blank"> 
+  <a href="https://jquery.com/" target="_blank" rel=”noopener noreferrer”> 
     <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
   </a>
 
@@ -87,11 +87,11 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel=”noopener noreferrer”> 
    <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel=”noopener noreferrer”>
     <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
 </p>
