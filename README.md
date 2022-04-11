@@ -22,7 +22,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=emncnozge&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=emncnozge&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="" /></p>
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -163,10 +163,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a><img alt="emncnozge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emncnozge&show_icons=true&hide_border=true&count_private=true&theme=github_dark"/></a>
+    <a><img alt="emncnozge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emncnozge&show_icons=true&count_private=true&theme=github_dark"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&hide_border=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -175,7 +175,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/emncnozge"><img alt="emncnozge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emncnozge&hide_border=true&custom_title=emncnozge's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/emncnozge"><img alt="emncnozge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emncnozge&custom_title=emncnozge's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
@@ -190,34 +190,34 @@
 
 <p align="center">
 <a href="https://github.com/emncnozge/Java-Do">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=Java-Do&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=Java-Do&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/Bank-Automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=Bank-Automation&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=Bank-Automation&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/Backgammon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=Backgammon&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=Backgammon&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/Crawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=Crawler&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=Crawler&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/ShoppingListPlanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=ShoppingListPlanner&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=ShoppingListPlanner&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/SpreadingV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=SpreadingV&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=SpreadingV&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/ANSI2UTF8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=ANSI2UTF8&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=ANSI2UTF8&theme=github_dark" />
 </a>
 <br><br>
 <a href="https://github.com/emncnozge/Bank-Automation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&hide_border=true&username=emncnozge&repo=Bank-Automation&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?count_private=true&username=emncnozge&repo=Bank-Automation&theme=github_dark" />
 </a>
 </p>
