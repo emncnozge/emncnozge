@@ -167,7 +167,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a><img alt="emncnozge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emncnozge&show_icons=true&count_private=true&theme=github_dark"/></a>
+    <img alt="emncnozge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emncnozge&show_icons=true&count_private=true&theme=github_dark"/>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
