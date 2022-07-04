@@ -25,7 +25,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=emncnozge&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="" /></p>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
 
 <p align="center">
 	<a href="mailto:emincanozge@outlook.com"><img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
