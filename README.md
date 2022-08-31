@@ -15,7 +15,7 @@
 - :school: I am a `Computer Engineering Student` at Istanbul University - Cerrahpasa
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Internship`, and here is my resume in [Turkish](https://drive.google.com/file/d/1mn-Xov9d3n8XSVu6dH7saUhuLo6hLUmQ/view?usp=sharing) and [English](https://drive.google.com/file/d/1f1zEwMUdPR2OpqSUfoz_237x7oiwN1BH/view?usp=sharing).
+- :thinking: I’m currently open for: `An Internship`, and here is my resume in [Turkish](https://drive.google.com/file/d/1g7O7NlLtCe6qpF95f9OKNbDVqFM5x2zs/view?usp=sharing) and [English](https://drive.google.com/file/d/1g7O7NlLtCe6qpF95f9OKNbDVqFM5x2zs/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
