@@ -1,13 +1,8 @@
 <h1 align="center">Hi , I'm Emin Can ÖZGE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Programmer;Keeping%20up%20with%20the%20technology&center=true&width=500&height=50"></a>
-</p>
 
 <br>
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=emncnozge&label=Profile%20views&color=0e75b6" alt="emncnozge" /> 
-	
 </p>
 
 ## :sassy_man: About me
@@ -15,30 +10,22 @@
 - :school: I am a `Computer Engineering Student` at Istanbul University - Cerrahpasa
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `Part-Time Job`, and here is my resume in [Turkish](https://drive.google.com/file/d/1RWSZivgaDf6bBVI4M7Y4kuJ25YRjosEN/view?usp=sharing) and [English](https://drive.google.com/file/d/1g7O7NlLtCe6qpF95f9OKNbDVqFM5x2zs/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-
 <br>
 
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=emncnozge&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="" /></p>
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
 
 <p align="center">
 	<a href="mailto:emincanozge@outlook.com"><img img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
 	<a href="https://www.linkedin.com/in/emincanozge/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  	<a href="https://github.com/emncnozge"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.instagram.com/emncnozge/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-
 </p>
 
 ## 🛠️ My Skills
-
 ### 👉 Programming languages
-
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/"> 
@@ -94,6 +81,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://reactjs.org/">
+    <img alt="CSS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+  </a> 
 </p>
 
 ### 👉 Software & Tools
@@ -110,75 +101,14 @@
   &emsp;
       <a href="https://www.microsoft.com/microsoft-365"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   &emsp;
-    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.geeksforgeeks.org/"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
-  &emsp;
-    <a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=JSON&logoColor=white"></a>
-</p>
-
-### 👉 IDEs and Text Editors
-
-<p align="center">
-  &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.spyder-ide.org/"><img alt="Spyder" src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"></a>
-  &emsp;
-  <a href="https://atom.io/"><img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"></a>
-  &emsp;
-  <a href="https://netbeans.apache.org/"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /></a>
-  &emsp;
-  <a href="https://www.jetbrains.com/phpstorm/"><img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" /></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/intellijidea/"><img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ%20 IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.jetbrains.com/webstorm/"><img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" /></a>
-</p>
-
-### 👉 Problem Solving
-
-<p align="center">
-  &emsp;
-    <a href="https://www.hackerrank.com/emincanozge"><img alt = "Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-</p>
-
-### 👉 Operating Systems
-
-<p align="center">
-  &emsp;
-  <a href="https://www.microsoft.com/windows"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.apple.com/tr/macos/"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0"></a>
-</p>
-
-<br/>
 
 ## 📊 GitHub Stats
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img alt="emncnozge's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emncnozge&show_icons=true&count_private=true&theme=github_dark"/>
-<br/>
-  &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
-  <br/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
+</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/emncnozge"><img alt="emncnozge's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=emncnozge&custom_title=emncnozge's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 <br/>
 
