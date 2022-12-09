@@ -10,7 +10,6 @@
 - :school: I am a `Computer Engineering Student` at Istanbul University - Cerrahpasa
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-<br>
 
 ## 🔥 Streak Stats
 
@@ -109,6 +108,3 @@
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-<br/>
-
