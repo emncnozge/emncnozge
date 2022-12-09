@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Emin Can ÖZGE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=emncnozge&label=Profile%20views&color=0e75b6" alt="emncnozge" /> 
 </p>
@@ -8,12 +7,8 @@
 ## :sassy_man: About me
 
 - :school: I am a `Computer Engineering Student` at Istanbul University - Cerrahpasa
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I love using `Software` as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=emncnozge&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="" /></p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
 
@@ -24,7 +19,9 @@
 </p>
 
 ## 🛠️ My Skills
+
 ### 👉 Programming languages
+
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/"> 
@@ -108,3 +105,7 @@
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
+## 🔥 Streak
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=emncnozge&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="" /></p>
