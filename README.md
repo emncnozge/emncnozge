@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Emin Can ÖZGE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## :sassy_man: About me
+## :man_technologist: About me
 
 - :school: I am a `Computer Engineering Student` at Istanbul University - Cerrahpasa
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
