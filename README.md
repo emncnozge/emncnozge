@@ -72,6 +72,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emncnozge&show_icons=true&theme=github_dark" alt="emncnozge_stats" />
-</p>
