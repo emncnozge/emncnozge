@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Emin Can ÖZGE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 ## :man_technologist: About me
 
-- :school: I am a `Computer Engineering Student` at Istanbul University - Cerrahpasa
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :computer: I am a `Software Engineer` at Siemens
+- :school: I have graduated from the `Department of Computer Engineering` at `Istanbul University - Cerrahpasa`
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30px" width="30px"> Connect with me
 
@@ -70,5 +70,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emncnozge&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emncnozge&langs_count=7&show_icons=true&locale=en&layout=compact&theme=github_dark"/>
 </p>
